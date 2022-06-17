@@ -46,6 +46,10 @@ To install the development version of the `oneimpact` R package, please use:
 ```
 library(devtools)
 devtools::install_github("NINAnor/oneimpact", ref = "HEAD")
+
+# for the multifit functions, use:
+library(devtools)
+devtools::install_github("NINAnor/oneimpact", ref = "multifit")
 ```
 
 ## See also
