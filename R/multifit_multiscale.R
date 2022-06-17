@@ -1,5 +1,6 @@
 #' Evaluation of multiple covariate effects at multiple scales
 #'
+#' @export
 multifit_multiscale <- function(mod,
                                 mod_comparison_df,
                                 data,

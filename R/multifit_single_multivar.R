@@ -3,6 +3,7 @@
 #' @param covariates `[character]` \cr List of names of the covariates to be tested,
 #' or a pattern within their names that differentiate among them.
 #'
+#' @export
 multifit_single_multivar <- function(mod,
                                      covariates,
                                      data,
